@@ -1,0 +1,1 @@
+Este es un proyecto web J2EE que utiliza Maven, Spring, Freemarker e Ibatis.
